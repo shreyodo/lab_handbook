@@ -3,6 +3,8 @@
 .RData
 .Ruserdata
 
-*.html
+##".filename" like above allows you to stop tracking certain folders##
 
-/data
+#Shreya's Notebook
+
+Really fun day coding.

@@ -7,6 +7,11 @@ output: html_document
 
 #Day 2 - R Course
 
+fiuljhgkjchvkhjchvjl
+
+Blahnlahblah
+
+
 The Summer course began yesterday. We:
 
 - Introduced ourselves 
@@ -34,3 +39,8 @@ hist (rnorm (1000), main = "Histogram of happy people")
 ```
 
 > Fig 1: Histogram of happy people 
+
+
+
+
+
